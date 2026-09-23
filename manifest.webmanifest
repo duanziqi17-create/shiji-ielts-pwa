@@ -1,0 +1,16 @@
+{
+  "name": "拾级 · IELTS 学习空间",
+  "short_name": "拾级IELTS",
+  "description": "自定每日新词和句子数量，用复习、听读与表达建立雅思学习习惯。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f2",
+  "theme_color": "#6e806b",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
